@@ -2,7 +2,7 @@
 Jangan Recode Bodoh
 
 
-Jika Ingin Password RansomeWarenya Bisa Terkirim Ke Email Kalian Maka Ubah Alamat Email Yang Berada Di Line 61 Variable $to Menjadi Email Kalian
+Jika Ingin Password RansomeWarenya Bisa Terkirim Ke Email Kalian Maka Ubah Alamat Email Yang Berada Di Line 63 Variable $to Menjadi Email Kalian
 
 Bila Kebingungan Hubungi
 Email : andrewahyuu11@gmail.com
