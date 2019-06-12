@@ -4,14 +4,11 @@ Recode? Woi Dek Inget Kata2 Gw ( Look And Learn )
 Done !! 
 Itu Adalah Kuncinya, Jadi Pelajari Lalu Tiru Jangan cuma Copy Paste Edit Done.
 
-    ■■■■■■■■■■■■■■■■■■■■■■■
-   #                                                                 #
-   #    Name : WannaCry Not Found          #
-   #    Release : 10 Juni 2019                     #
-   #    Team : 22Xploiter Crew                    #
-   #    Inspirasi From : Baby Hacker          #                
-   #                                                                 #
-   #■■■■■■■■■■■■■■■■■■■■■■■
+            ■■■■■■■■■■■■■■■■■
+            Name : WannaCry Not Found
+            Release : 10 Juni 2019
+            ■■■■■■■■■■■■■■■■■
+            
 Usahain Kalo Mau Lock Web Pastikan Jaringan Lancar Dan Kuat, Agar Proses Lock Web Berjalan Dengan Normal.
 Kesalahan Saat Lock Web Di Luar Tanggung Jawab Saya, Karna Gw Udah Atur Siapa Yang Tanem RansomeWare Dia Yang Pegang.
 @./R4ND5
